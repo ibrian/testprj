@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PPUITestActivity!</string>
+    <string name="app_name">LoginTestApp</string>
+    <string name="enteremail">Enter your email</string>
+    <string name="enterpwd">Enter your password</string>
+    <string name="myemail">liacao@paypal.com</string>
+
+</resources>
